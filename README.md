@@ -1,4 +1,5 @@
 # Crowd Detection Using YOLOv8
+![GitHub Repo stars](https://img.shields.io/github/stars/Uni-Creator/Crowd-Detection?style=social)  ![GitHub forks](https://img.shields.io/github/forks/Uni-Creator/Crowd-Detection?style=social)
 
 ## 📌 Project Overview
 This project uses **YOLOv8** for real-time crowd detection in videos. It tracks individuals, groups them based on proximity, and detects crowds that meet a defined threshold.
